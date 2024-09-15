@@ -1,6 +1,6 @@
 # Kristopher Kubicki 
 
-Welcome to my GitHub! I'm Kristopher Kubicki, a software developer, entrepreneur, and radio enthusiast.✨ My projects range from smart home device types to cutting-edge data scraping tools, along with experimental ventures in audio processing, noise cancellation, and much more.  I’m always exploring new technologies and pushing the boundaries of software and hardware innovation.
+Welcome to my GitHub! I'm Kristopher Kubicki, a software developer, entrepreneur, and radio enthusiast.✨ My projects range from smart home device types to cutting-edge data scraping tools, along with experimental ventures in audio processing, noise cancellation, and much more.  I’m always exploring new technologies and pushing the boundaries of software and hardware innovation.  Most of my projects acquire or synthesize data.
 
 <p align="center">
   <a href='https://www.linkedin.com/in/kriskubicki'><img src="https://github.com/user-attachments/assets/41521c2e-5c47-4791-96dc-c1bbf46474f2" alt="Kristopher Kubicki"></a>
@@ -31,13 +31,13 @@ Momento is an image capture platform for stadiums and events. The system consist
 
 ### Artdrop 
 
-Artdrop is an automated art-purchasing bot. 🌌  It is a highly automated workflow for monitoring, alerting and acquiring art that is ships and sold on the internet.  You can see a public feed of the sfotware at [Drops.art](https://drops.art/). 
+Artdrop is an automated art-purchasing bot. 🌌  It is a highly automated workflow for monitoring, alerting and acquiring art that is shipped and sold on the internet.  You can see a public feed of the sfotware at [Drops.art](https://drops.art/). 
 
 ### [CostCrawler](https://github.com/KristopherKubicki/CostCrawler)
 CostCrawler is a public project built to crawl hospital pricing data, unify pricing codes, and bring transparency to healthcare costs.  It's part of my ongoing effort to disintermediate data landscapes through automation.  You can see how this is implemented at [Waymed.com](https://waymed.com/).
 
 ### More Projects
-While many of my projects are public, I also have a range of private repositories focused on web crawling, [drones](https://github.com/KristopherKubicki/ceilinator), and radio frequency applications that I don’t share publicly. If you're interested in any of these areas, feel free to reach out—I’m always eager to discuss cool tech. 🌱
+While many of my projects are public, I also have a range of private repositories focused on web crawling, [drones](https://github.com/KristopherKubicki/ceilinator), and radio frequency applications that I don’t share publicly. If you're interested in any of these areas, feel free to reach out.  I'm always eager to discuss cool tech. 🌱
 
 Also, check out some early work I did on building multi-modal recognition pipelines for [all kinds of media types](https://github.com/KristopherKubicki/video2data).  
 
@@ -53,8 +53,8 @@ I hold multiple patents in software and hardware, ranging from advanced web craw
 
 - **Audio Processing and Noise Cancellation:** I'm delving into audio technologies, experimenting with new ways to process and reduce noise.
 - **LLM Augmentation:** I leverage at least three different LLMs for code review and augmentation, enhancing my development workflows.
+- **Web Crawling:** Continuously refining my [web crawling techniques](https://github.com/GapIntelligence/DAR-Schema) to improve data extraction and analysis.
 - **Drone Photography:** I frequently capture aerial images with drones, integrating these workflows into my data collection projects.
-- **Web Crawling Innovation:** Continuously refining my web crawling techniques to improve data extraction and analysis.
 
 <p align="center">
 <a href='https://github.com/KristopherKubicki/ceilinator'><img src='https://user-images.githubusercontent.com/478212/41077963-76234b1a-69df-11e8-8977-acc955a8c09f.gif'></a></p>
