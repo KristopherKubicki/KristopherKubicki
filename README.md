@@ -31,7 +31,7 @@ Momento is an image capture platform for stadiums and events. The system consist
 
 ### Artdrop 
 
-Artdrop is an automated art-purchasing bot. 🌌  It is a highly automated workflow for monitoring, alerting and acquiring art that is shipped and sold on the internet.  You can see a public feed of the sfotware at [Drops.art](https://drops.art/). 
+Artdrop is an automated art-purchasing bot. 🌌  It is a highly automated workflow for monitoring, alerting and acquiring art that is shipped and sold on the internet.  You can see a public feed of the software at [Drops.art](https://drops.art/). 
 
 ### [CostCrawler](https://github.com/KristopherKubicki/CostCrawler)
 CostCrawler is a public project built to crawl hospital pricing data, unify pricing codes, and bring transparency to healthcare costs.  It's part of my ongoing effort to disintermediate data landscapes through automation.  You can see how this is implemented at [Waymed.com](https://waymed.com/).
