@@ -59,6 +59,7 @@ I hold multiple patents in software and hardware, ranging from advanced web craw
 
 ## 🔧 My Latest Work 
 
+- **Autocamera:** People ask how my DSLR webcam works.  [Check it out](https://github.com/KristopherKubicki/autocamera)! 
 - **Audio Processing and Noise Cancellation:** I'm delving into audio technologies, experimenting with new ways to process and reduce noise.
 - **LLM Augmentation:** I leverage at least three different LLMs for code review and augmentation, enhancing my development workflows.
 - **Web Crawling:** Continuously refining my [web crawling techniques](https://github.com/GapIntelligence/DAR-Schema) to improve data extraction and analysis.
