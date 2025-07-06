@@ -17,7 +17,7 @@ I co-founded [Hubitat](https://hubitat.com), a smart home automation platform, a
 ## Recent Projects
 
 ### [Argon2 Quantum](https://github.com/KristopherKubicki/argon2_quantum) 
-Argon2 Quantum is a hardened fork of the [Argon2 key-derivation algorithm](https://en.wikipedia.org/wiki/Argon2) that substantially increases up memory hardness and parallelism to substially blunt GPU and ASIC attacks using cloud-based quantum circuits.  
+Argon2 Quantum is a hardened fork of the [Argon2 key-derivation algorithm](https://en.wikipedia.org/wiki/Argon2) that substantially blunts GPU and ASIC attacks using cloud-based quantum circuits.  
 
 ### [Pangenome Project](https://github.com/pangenome)
 Working on super fast, lock-free pangenome graphs with Broad's [Poasta](https://github.com/pangenome/poasta) algorithm and [SeqRush](https://github.com/pangenome/seqrush), a seqwish-inspired engine based on a union-find core.  
