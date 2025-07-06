@@ -1,10 +1,12 @@
 # Kristopher Kubicki 
 
-Welcome to my GitHub! I'm Kristopher Kubicki, a software developer, entrepreneur, and radio enthusiast.✨ My projects range from smart home device types to cutting-edge data scraping tools, along with experimental ventures in audio processing, noise cancellation, and much more.  I’m always exploring new technologies and pushing the boundaries of software and hardware innovation.  Most of my projects acquire or synthesize data.
+data-obsessed inventor · patented web-crawling pioneer
 
 <p align="center">
   <a href='https://www.linkedin.com/in/kriskubicki'><img src="https://github.com/user-attachments/assets/41521c2e-5c47-4791-96dc-c1bbf46474f2" alt="Kristopher Kubicki"></a>
 </p>
+
+Welcome to my GitHub! I'm Kristopher Kubicki, a software developer, entrepreneur, and radio enthusiast.✨ My projects range from smart home device types to cutting-edge data scraping tools, along with experimental ventures in audio processing, noise cancellation, and much more.  I’m always exploring new technologies and pushing the boundaries of software and hardware innovation.  Most of my projects acquire or synthesize data.
 
 ## 📡 About Me 🍀
 
@@ -13,6 +15,9 @@ I also work at [OpenBrand.com](https://openbrand.com) (formerly [Gap Intelligenc
 I co-founded [Hubitat](https://hubitat.com), a smart home automation platform, and have developed numerous device types and integrations for Hubitat and SmartThings. Many of [my repos](https://github.com/KristopherKubicki?tab=repositories&q=&type=&language=groovy&sort=) contain device types and apps useful for both platforms. 
 
 ## Recent Projects
+
+### [Argon2 Quantum](https://github.com/KristopherKubicki/argon2_quantum) 
+Argon2 Quantum is a hardened fork of the [Argon2 key-derivation algorithm](https://en.wikipedia.org/wiki/Argon2) that cranks up memory hardness and parallelism to blunt GPU, ASIC, and Grover-style quantum speed-ups. The result is a drop-in KDF that keeps your passwords safe in both classical and post-quantum worlds.
 
 ### [Glimpser](https://github.com/KristopherKubicki/glimpser) 🌅
 [Glimpser](https://glimpser.net) is my time series NVR (Network Video Recorder) designed for enthusiasts who want to capture, analyze, and visualize changes over time. It's for anyone fascinated by visualizing data across different time intervals. 
