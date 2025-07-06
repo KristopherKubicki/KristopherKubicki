@@ -6,9 +6,9 @@ data-obsessed inventor · patented web-crawling pioneer
   <a href='https://www.linkedin.com/in/kriskubicki'><img src="https://github.com/user-attachments/assets/41521c2e-5c47-4791-96dc-c1bbf46474f2" alt="Kristopher Kubicki"></a>
 </p>
 
-Welcome to my GitHub! I'm Kristopher Kubicki, a software developer, entrepreneur, and radio enthusiast.✨ My projects range from smart home device types to cutting-edge web crawling tools, along with experimental ventures in audio processing, noise cancellation, and much more.  I’m always exploring new technologies and pushing the boundaries of software and hardware innovation.  Most of my projects acquire or synthesize data.
-
 ## 📡 About Me 🍀
+
+I’m Kristopher Kubicki, a software builder, entrepreneur, and licensed ham-radio tinkerer. Most of my work revolves around harvesting or generating data, and you’ll see that theme across my public repos: from smart-home device drivers and high-scale web crawlers to experimental audio pipelines, quantum-ready encryption, and diamond-based semiconductor R&D.
 
 I also work at [OpenBrand.com](https://openbrand.com) (formerly [Gap Intelligence](https://www.gapintelligence.com), [Deep.ad](https://deep.ad), [Traqline](https://www.traqline.com), and Competitive Promotion Report). Check out our [GitHub](https://github.com/GapIntelligence) for job postings and more, including details on our open-source [DAR (Data Archive Request) format](https://github.com/GapIntelligence/DAR-Schema), a powerful tool for data collection and analysis similar to an HTTP archive request file.
 
@@ -17,7 +17,7 @@ I co-founded [Hubitat](https://hubitat.com), a smart home automation platform, a
 ## Recent Projects
 
 ### [Argon2 Quantum](https://github.com/KristopherKubicki/argon2_quantum) 
-Argon2 Quantum is a hardened fork of the [Argon2 key-derivation algorithm](https://en.wikipedia.org/wiki/Argon2) that cranks up memory hardness and parallelism to blunt GPU, ASIC, and Grover-style quantum speed-ups. The result is a drop-in KDF that keeps your passwords safe in both classical and post-quantum worlds.
+Argon2 Quantum is a hardened fork of the [Argon2 key-derivation algorithm](https://en.wikipedia.org/wiki/Argon2) that substantially increases up memory hardness and parallelism to substially blunt GPU and ASIC attacks using cloud-based quantum circuits.  
 
 ### [Pangenome Project](https://github.com/pangenome)
 Working on super fast, lock-free pangenome graphs with Broad's [Poasta](https://github.com/pangenome/poasta) algorithm and [SeqRush](https://github.com/pangenome/seqrush), a seqwish-inspired engine based on a union-find core.  
