@@ -16,11 +16,17 @@ I co-founded [Hubitat](https://hubitat.com), a smart home automation platform, a
 
 ## Recent Projects
 
-### [Argon2 Quantum](https://github.com/KristopherKubicki/argon2_quantum) 
-Argon2 Quantum is a hardened fork of the [Argon2 key-derivation algorithm](https://en.wikipedia.org/wiki/Argon2) that substantially blunts GPU and ASIC attacks using cloud-based quantum circuits.  
+### [Norman](https://github.com/KristopherKubicki/norman)
+Norman is my local-first agent console and chatbot runtime. It connects channels, tools, approvals, and LLM backends, with current work focused on Norllama routing, local model residency, console runtimes, and multi-connector operations.
 
-### [Pangenome Project](https://github.com/pangenome)
-Working on super fast, lock-free pangenome graphs with Broad's [Poasta](https://github.com/pangenome/poasta) algorithm and [SeqRush](https://github.com/pangenome/seqrush), a seqwish-inspired engine based on a union-find core.  
+### [Wafermancer - Illumina](https://github.com/KristopherKubicki/wafermancer)
+Wafermancer is an audiovisual classical remix project. **Illumina** is packaged as 16 MP4 tracks because the visualizers are part of the album, not just wrappers around audio.
+
+### [Golem Covenant](https://github.com/KristopherKubicki/golem-covenant)
+Golem Covenant is a proposed standard for bounded, answerable, revocable AI agents. It is a governance/specification project for building agents that can be inspected, constrained, and turned off.
+
+### [Adblock Tester](https://github.com/KristopherKubicki/adblock-tester)
+Adblock Tester is a browser-based test surface for checking ad-blocking behavior against known network, script, and layout patterns.
 
 ### [Glimpser](https://github.com/KristopherKubicki/glimpser) 🌅
 [Glimpser](https://glimpser.net) is my time series NVR (Network Video Recorder) designed for enthusiasts who want to capture, analyze, and visualize changes over time. It's for anyone fascinated by visualizing data across different time intervals. 
@@ -41,6 +47,12 @@ Momento is an image capture platform for stadiums and events. The system consist
 
 Artdrop is an automated art-purchasing bot. 🌌  It is a highly automated workflow for monitoring, alerting and acquiring art that is shipped and sold on the internet.  You can see a public feed of the software at [Drops.art](https://drops.art/). 
 
+### [Argon2 Quantum](https://github.com/KristopherKubicki/argon2_quantum) 
+Argon2 Quantum is an experimental fork of the [Argon2 key-derivation algorithm](https://en.wikipedia.org/wiki/Argon2) exploring attack-cost changes with quantum-circuit-assisted work factors.
+
+### [Pangenome Project](https://github.com/pangenome)
+Working on super fast, lock-free pangenome graphs with Broad's [Poasta](https://github.com/pangenome/poasta) algorithm and [SeqRush](https://github.com/pangenome/seqrush), a seqwish-inspired engine based on a union-find core.  
+
 ### [CostCrawler](https://github.com/KristopherKubicki/CostCrawler)
 CostCrawler is a public project built to crawl hospital pricing data, unify pricing codes, and bring transparency to healthcare costs.  It's part of my ongoing effort to disintermediate data landscapes through automation.  You can see how this is implemented at [Waymed.com](https://waymed.com/).
 
@@ -59,9 +71,11 @@ I hold multiple patents in software and hardware, ranging from advanced web craw
 
 ## 🔧 My Latest Work 
 
+- **Norman / Norllama:** Building a local-first agent runtime that can route between hosted models, resident local models, tools, and human approval loops.
+- **Wafermancer:** Publishing audiovisual remix work where the visualizer is part of the track format.
+- **Glimpser:** Improving camera/timelapse workflows for monitoring, summarization, and visual data capture.
 - **Autocamera:** People ask how my DSLR webcam works.  [Check it out](https://github.com/KristopherKubicki/autocamera)! 
-- **Audio Processing and Noise Cancellation:** I'm delving into audio technologies, experimenting with new ways to process and reduce noise.
-- **LLM Augmentation:** I leverage at least three different LLMs for code review and augmentation, enhancing my development workflows.
+- **LLM Augmentation:** I use multiple LLMs for code review, planning, runtime control, and release workflows.
 - **Web Crawling:** Continuously refining my [web crawling techniques](https://github.com/GapIntelligence/DAR-Schema) to improve data extraction and analysis.
 - **Drone Photography:** I frequently capture aerial images with drones, integrating these workflows into my data collection projects.
 
