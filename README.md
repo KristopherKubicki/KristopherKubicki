@@ -32,7 +32,7 @@ Adblock Tester is a browser-based test surface for checking ad-blocking behavior
 [Glimpser](https://glimpser.net) is my time series NVR (Network Video Recorder) designed for enthusiasts who want to capture, analyze, and visualize changes over time. It's for anyone fascinated by visualizing data across different time intervals. 
 
 <p align="center">
-<a href='https://github.com/KristopherKubicki/glimpser'><img src='assets/glimpser-dashboard.png' alt='Glimpser dashboard screenshot'></a>
+<a href='https://github.com/KristopherKubicki/glimpser'><img src='https://github.com/user-attachments/assets/ea3e094e-1fc5-447b-87f8-9772c9086e5f' alt='Glimpser animated dashboard preview'></a>
 </p> 
 
 ### Momento 🌊
